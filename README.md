@@ -1,2 +1,4 @@
 # Hyperlinks-Integrity-Checker
-Hyperlinks Integrity Checker using OOP Java
+Hyperlinks Integrity Checker using OOP Java. 
+Hyperlinks checker is a program that is implemented in Java. It helps detect broken links, corrupt files and also is very useful in tracking changes that happen to websites over time, which are all too difficult to be done manually, especially with the rapid growth of websites and online document directories.
+The program takes a URL and the required depth of checking as input. The program will then check the validity of the URLs found until the required depth is reached. Hyperlinks checker code optimizes the use of threads to reach the best performance. It starts by 1 thread then increases the number of threads until reaching the ideal number. After the program executes, it will output the number of valid links, invalid links, optimal number of threads and the time elapsed checking using that number of threads. More details regarding the time spent on other number of threads can be shown. 
